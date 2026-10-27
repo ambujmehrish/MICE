@@ -1,0 +1,2 @@
+# MICE
+Static Skill bundles 
